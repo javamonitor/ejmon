@@ -18,9 +18,9 @@ EJMon is **insanely documented** with a focus on **performance**, **extensibilit
 
 ## Erlang versions supported
 
-Ecasp officially supports OTP release 17 and later.
+ejmon officially supports OTP release 17 and later.
 
-Development of Ecasp takes place using a OTP 21.0 release and tests are done on:
+Development of ejmon takes place using a OTP 21.0 release and tests are done on:
 - 17.5
 - 18.3
 - 19.3
